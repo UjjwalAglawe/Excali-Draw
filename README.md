@@ -2,7 +2,7 @@
 
 A real-time, collaborative whiteboard application built using **Next.js**, **Express.js**, **WebSockets**, and **PostgreSQL**, structured as a **Turborepo** for scalable full-stack development.
 
-![Excalidraw Screenshot](https://your-screenshot-link-if-any.com)
+![Excalidraw Screenshot]([https://your-screenshot-link-if-any.com](https://drive.google.com/file/d/1PGA2lI6yqbuaC2bm_u9bmKVgRor5RZ_6/view?usp=sharing))
 
 ## ✨ Features
 
